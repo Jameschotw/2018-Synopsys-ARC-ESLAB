@@ -26,4 +26,8 @@
 
 ### Run this application
 
-- gotcha!! you have been fooled!
+- Compile the source code in the arc_gnu toolset
+- Download the code into your EMSK Board. Be sure the switch 1 and 2 is off state
+- Turn on the ExG andorid app on your smartphone
+- Choose the ble UUID in the app list
+- Finally, place the sensor on your body and you can see the signal on the mobile 
