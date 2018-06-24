@@ -22,8 +22,8 @@
 
 ### Before run this application
 
-don't do anthing stupid, it just won't work
+- Download source code from github, and install app into your smartphone
 
 ### Run this application
 
-nothing will happen
+- gotcha!! you have been fooled!
