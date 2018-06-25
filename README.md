@@ -3,6 +3,7 @@
 - Our project is to provide users to monitor their health by the mobile. 
 - We will collect body signal and convert voltage signal to digital signal and then transmit to bluetooth.
 - Finally, user can see the EMG and ECG signal from the mobile
+- [ demo vedio ][1]
 
 ## HW/SW Setup
 
@@ -31,3 +32,5 @@
 - Turn on the ExG andorid app on your smartphone
 - Choose the ble UUID in the app list
 - Finally, place the sensor on your body and you can see the signal on the mobile 
+
+[1]:http://v.youku.com/v_show/id_XMzYzOTc3NDMzNg==.html?spm=a2h3j.8428770.3416059.1 "demo vedio"
