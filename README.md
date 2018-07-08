@@ -1,3 +1,11 @@
+#eCare - The Monitor device for the elderly
+This applcation is designed to support Nursing Aide to **taking care of the elderly.** eCare is using embARC EM Starter Kit with BLE and ad2 pmods. You can observe thorugh our **andorid App** to monitor your **ECG(Electrocardiogram)** or **EMG(Electromyogram)** anywhere.
+Let's us begin introduce eCare with you!
+
+* [Introduction](#Introduction)
+* [Hardware and Software Setup](#hardware-and-software-setup)
+* [User Manual](#user-manual)
+
 ## Introduction
 
 - Our project is to provide users to monitor their health by the mobile. 
