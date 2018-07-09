@@ -52,7 +52,7 @@ Let's us begin introduce eCare with you!
 
 ![embARC][1]
 
-## User manual
+## User Manual
 
 ### Before run this application
 
@@ -62,15 +62,16 @@ Let's us begin introduce eCare with you!
 ### Run this application
 
 - Compile the source code in the arc_gnu toolset
-- Download the code into your EMSK Board. Be sure the switch 1 is off state and 2 is ON state
+- Download the code into your EMSK Board. Be sure the switch 1 is off state and 2 is ON state(arcem11d configuration)
 - Turn on the ExG andorid app on your smartphone
 - Choose the ble UUID in the app list
-- Finally, place the sensor on your body and you can see the signal on the mobile (pictures!!!!!!) 
+- Finally, place the sensor on your body and you can see the signal on the mobile
 
 
-|  folder/file        |            Function           |
-| ------------------- | ------------------------------|
-|  Dsp_assembly.h     |   optimize code for Arc Dsp   |
+|  file               |               Function                    |
+| ------------------- | ------------------------------------------|
+|  main.c             |   include ble transfer and adc function   |
+                                     
 
 
 [1]: ./pictures/IMG_0239.jpg
