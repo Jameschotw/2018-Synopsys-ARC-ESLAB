@@ -66,4 +66,4 @@ Let's us begin introduce eCare with you!
 
 
 [1]: ./pictures/IMG_0239.jpg
-[2]: ./pictures/IMG_0294.JPG
+[2]: ./pictures/IMG_0294.jpg
