@@ -33,7 +33,7 @@ Let's us begin introduce eCare with you!
   - Pmod adc module
   - smartphone(andorid system)
   - Analog Front End(AFE)
-  
+![embARC][1]
 
 * Required Software 
   - ARC GNU toolset
@@ -44,7 +44,6 @@ Let's us begin introduce eCare with you!
   - Connect PmodAD2 to the board at J2 port
   - Connect the AFE to PmodAD2
   - Insert HM-10 to the board  and set the board version to arcem11d
-
 
 ## User manual
 
@@ -60,3 +59,7 @@ Let's us begin introduce eCare with you!
 - Turn on the ExG andorid app on your smartphone
 - Choose the ble UUID in the app list
 - Finally, place the sensor on your body and you can see the signal on the mobile (pictures!!!!!!) 
+
+
+
+[1]: .picture/IMG_0329.jpg
