@@ -18,10 +18,14 @@ Let's us begin introduce eCare with you!
 - We will collect body signal and convert voltage signal to digital signal and then transfer to bluetooth.
 - Finally, user can see the EMG and ECG signal from the mobile
 
+**System Architecture**
+![System][3]
+
 **Andorid App**
 - The data that collect from eCare will transmit to the andorid app. you can easily observe ECG and EMG waveform form mobile and it can also be saved as a txt file
 
-**andorid app picture**
+![ECG][4]
+![EMG][5]
 
 
 
@@ -64,6 +68,13 @@ Let's us begin introduce eCare with you!
 - Finally, place the sensor on your body and you can see the signal on the mobile (pictures!!!!!!) 
 
 
+|  folder/file        |            Function           |
+| ------------------- | ------------------------------|
+|  Dsp_assembly.h     |   optimize code for Arc Dsp   |
+
 
 [1]: ./pictures/IMG_0239.jpg
 [2]: ./pictures/IMG_0294.jpg
+[3]: ./pictures/Architecture.png
+[4]: ./pictures/ECG.png
+[5]: ./pictures/EMG.png
