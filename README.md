@@ -19,9 +19,11 @@ Let's us begin introduce eCare with you!
 - Finally, user can see the EMG and ECG signal from the mobile
 
 **Andorid App**
-The data that collect from eCare will transmit to the andorid app. you can easily observe ECG and EMG waveform form mobile and it can also be saved as a txt file
+- The data that collect from eCare will transmit to the andorid app. you can easily observe ECG and EMG waveform form mobile and it can also be saved as a txt file
 
 **andorid app picture**
+
+
 
 ## Hardware and Software Setup
 
