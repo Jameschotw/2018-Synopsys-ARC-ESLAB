@@ -33,6 +33,7 @@ Let's us begin introduce eCare with you!
   - Pmod adc module
   - smartphone(andorid system)
   - Analog Front End(AFE)
+  
 ![embARC][1]
 
 * Required Software 
@@ -62,4 +63,4 @@ Let's us begin introduce eCare with you!
 
 
 
-[1]: .picture/IMG_0329.jpg
+[1]: .pictures/IMG_0329.jpg
