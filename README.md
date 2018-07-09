@@ -35,8 +35,6 @@ Let's us begin introduce eCare with you!
   - Analog Front End(AFE)
   
 ![EM][2]
-![ble][3]
-![adc][4]
 
 * Required Software 
   - ARC GNU toolset
@@ -69,5 +67,3 @@ Let's us begin introduce eCare with you!
 
 [1]: ./pictures/IMG_0239.jpg
 [2]: ./pictures/IMG_0294.JPG
-[3]: ./pictures/IMG_0295.JPG
-[4]: ./pictures/ING_0296.JPG
