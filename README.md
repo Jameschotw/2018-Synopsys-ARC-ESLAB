@@ -27,14 +27,16 @@ Let's us begin introduce eCare with you!
 
 ## Hardware and Software Setup
 
-* Required Hardware (pictures!!!!!!) 
+* Required Hardware
   - embARC EM Starter
   - Pmod ble module
   - Pmod adc module
   - smartphone(andorid system)
   - Analog Front End(AFE)
   
-![embARC][1]
+![EM][2]
+![ble][3]
+![adc][4]
 
 * Required Software 
   - ARC GNU toolset
@@ -45,6 +47,8 @@ Let's us begin introduce eCare with you!
   - Connect PmodAD2 to the board at J2 port
   - Connect the AFE to PmodAD2
   - Insert HM-10 to the board  and set the board version to arcem11d
+
+![embARC][1]
 
 ## User manual
 
@@ -64,3 +68,6 @@ Let's us begin introduce eCare with you!
 
 
 [1]: ./pictures/IMG_0239.jpg
+[2]: ./pictures/IMG_0294.JPG
+[3]: ./pictures/IMG_0295.JPG
+[4]: ./pictures/ING_0296.JPG
