@@ -52,6 +52,10 @@ Let's us begin introduce eCare with you!
 
 ![embARC][1]
 
+* Demo Video
+
+[ Demo ][6]
+
 ## User Manual
 
 ### Before run this application
@@ -79,3 +83,4 @@ Let's us begin introduce eCare with you!
 [3]: ./pictures/Architecture.png
 [4]: ./pictures/ECG.png
 [5]: ./pictures/EMG.png
+[6]: https://v.youku.com/v_show/id_XMzcxMzc5ODI0NA==.html?spm=a2h3j.8428770.3416059.1 " Demo "
